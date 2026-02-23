@@ -333,7 +333,7 @@ EVERYTHING IS IN THE REPO
 
 [LARGE QR CODE]
 
-github.com/kodekloud/k8s-staying-current
+github.com/peopleforrester/k8s-staying-current
 
 - All links from this talk, verified and maintained
 - Role-based subscription checklists
@@ -346,7 +346,7 @@ github.com/kodekloud/k8s-staying-current
 
 **Mumshad:** *(drops character, addresses audience directly)* Alright, let's land this.
 
-Everything we just talked about — every link, every tool, every checklist — is in a GitHub repo that we're going to maintain. Scan that QR code or go to github.com/kodekloud/k8s-staying-current.
+Everything we just talked about — every link, every tool, every checklist — is in a GitHub repo that we're going to maintain. Scan that QR code or go to github.com/peopleforrester/k8s-staying-current.
 
 **Michael:** Five things to remember:
 
