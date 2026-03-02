@@ -11,3 +11,10 @@ Thumbs.db
 
 # Environment
 .env
+
+# Slides (large files, ignored until publication)
+slides/*
+!slides/.gitkeep
+
+# Windows Zone.Identifier streams
+*:Zone.Identifier
