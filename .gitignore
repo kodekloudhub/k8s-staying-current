@@ -12,6 +12,9 @@ Thumbs.db
 # Environment
 .env
 
+# Internal project state (not for public)
+PROJECT_STATE.md
+
 # Slides (large files, ignored until publication)
 slides/*
 !slides/.gitkeep
